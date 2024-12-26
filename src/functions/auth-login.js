@@ -3,7 +3,7 @@ const { app } = require("@azure/functions");
 //const jwt = require("jsonwebtoken");
 //const bcrypt = require("bcrypt");
 //const { initializeCosmosDb, getContainer } = require("../startup/cosmosDb");
-// 4
+// 4a
 
 // Define the validation schema
 /*const schema = Joi.object({
